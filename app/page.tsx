@@ -30,7 +30,7 @@ export default function Home() {
           className="glass-strong border-accent/30 bg-gradient-to-r from-accent/20 to-accent-warm/20 text-foreground backdrop-blur-xl hover:border-accent/50"
           asChild
         >
-          <a href="https://t.me/yourlyceum27channel" target="_blank" rel="noopener noreferrer">
+          <a href="https://t.me/findLyceum" target="_blank" rel="noopener noreferrer">
             <Send className="mr-2 h-4 w-4" />
             Подписаться
           </a>
@@ -55,7 +55,7 @@ export default function Home() {
 
             <p className="mx-auto mb-8 max-w-2xl text-pretty text-lg leading-relaxed text-muted-foreground md:text-xl">
               Telegram-канал для знакомств и общения по интересам среди учеников Лицея №27. Размещай объявления с фото и
-              находи единомышленников!
+              находи того кто тебе нравится!
             </p>
 
             <div className="flex flex-wrap items-center justify-center gap-4">
@@ -64,7 +64,7 @@ export default function Home() {
                 className="glass-strong group gap-2 border-accent/30 bg-gradient-to-r from-accent/30 to-accent-warm/30 text-foreground backdrop-blur-xl hover:border-accent/50 hover:from-accent/40 hover:to-accent-warm/40"
                 asChild
               >
-                <a href="https://t.me/yourlyceum27channel" target="_blank" rel="noopener noreferrer">
+                <a href="https://t.me/findLyceum" target="_blank" rel="noopener noreferrer">
                   <Send className="h-5 w-5 transition-transform group-hover:translate-x-1" />
                   Присоединиться к каналу
                 </a>
@@ -104,7 +104,7 @@ export default function Home() {
                 </div>
                 <h3 className="mb-2 text-xl font-semibold text-foreground">Новые знакомства</h3>
                 <p className="text-pretty leading-relaxed text-muted-foreground">
-                  Размещай объявления с фото и текстом о своих интересах. Находи людей для дружбы и совместных
+                  Размещай объявления с фото и текстом. Находи людей для дружбы и совместных
                   увлечений.
                 </p>
               </CardContent>
@@ -159,7 +159,7 @@ export default function Home() {
                 </div>
                 <h3 className="mb-2 text-lg font-semibold text-foreground">Создай объявление</h3>
                 <p className="text-pretty text-sm leading-relaxed text-muted-foreground">
-                  Напиши о себе, добавь фото и расскажи о своих интересах
+                  Напиши о себе, добавь фото и описание человека
                 </p>
               </div>
 
@@ -188,7 +188,7 @@ export default function Home() {
               className="glass-strong gap-2 border-accent/30 bg-gradient-to-r from-accent/30 to-accent-gold/30 text-foreground backdrop-blur-xl hover:border-accent/50 hover:from-accent/40 hover:to-accent-gold/40"
               asChild
             >
-              <a href="https://t.me/yourlyceum27channel" target="_blank" rel="noopener noreferrer">
+              <a href="https://t.me/findLyceum" target="_blank" rel="noopener noreferrer">
                 <Send className="h-5 w-5" />
                 Присоединиться к каналу
               </a>
